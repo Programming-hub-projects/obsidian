@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00e0a56363ce2390",
+        "id": "562076e209e2e98c",
         "type": "tabs",
         "children": [
           {
-            "id": "c4032011aebf390d",
+            "id": "533671dbe835f4a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md"
+              }
+            }
+          },
+          {
+            "id": "fce96d7774c0210e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -138,11 +155,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c4032011aebf390d",
+  "active": "533671dbe835f4a6",
   "lastOpenFiles": [
-    "Оглавление!.md",
+    "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+    "Computer Science/Алгоритмы/Бинарный поиск/python.py",
+    "Computer Science/Алгоритмы/Бинарный поиск/Text Document.txt",
     "Readme.md",
+    "Computer Science/Алгоритмы/Бинарный поиск",
+    "Computer Science/Структуры данных",
+    "Computer Science/Алгоритмы",
+    "Computer Science/Без названия.md",
+    "Computer Science",
     "Папка/ссылка сюда.md",
+    "Оглавление!.md",
     "Папка"
   ]
 }
