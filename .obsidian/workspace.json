@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca56f867c2cd1c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -216,14 +228,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "489d0142cf4262df",
+  "active": "ca56f867c2cd1c78",
   "lastOpenFiles": [
-    "Языки программирования/Python/all python/alorithms/Бинарный поиск Binary search Python.md",
+    "Readme.md",
+    "Языки программирования/Оглавление Языки Программирования.md",
     "Языки программирования/Python/оглавление Python.md",
+    "Языки программирования/Python/all python/alorithms/Бинарный поиск Binary search Python.md",
     "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
     "Языки программирования/Python/all python/alorithms",
     "Языки программирования/Python/all python",
-    "Readme.md",
     "Языки программирования/Golang/оглавление Golang.md",
     "Языки программирования/Java/оглавление Java.md",
     "Языки программирования/JS/оглавление JavaScript.md",
