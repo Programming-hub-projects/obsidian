@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "562076e209e2e98c",
+        "id": "efbf4d3edd408e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "912eac48e817e405",
+            "id": "e35ca1192a020f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Структуры данных/Массив/Массив.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5959da1c229c9bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Структуры данных/Массив/Массив.md",
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Структуры данных/Массив/Массив.md",
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Структуры данных/Массив/Массив.md",
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Структуры данных/Массив/Массив.md"
+                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md"
               }
             }
           },
@@ -168,53 +155,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f5959da1c229c9bf",
+  "active": "e35ca1192a020f2a",
   "lastOpenFiles": [
+    "Computer Science/Структуры данных/Массив/Массив.md",
+    "Языки программирования/Python/all python/Algorithms/Бинарный поиск Binary search Python.md",
+    "Языки программирования/C/all c/Algorithms/Бинарный поиск Binary search.md",
+    "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+    "Языки программирования/C/all c/Data structures/Массив Array.md",
+    "Языки программирования/C/all c/Algorithms",
+    "Computer Science/Алгоритмы/Частые вопросы по алгоритмам и структурам данных с собеседований.md",
+    "Static/LinkedListChange.png",
+    "Computer Science/ООП OOP/ООП OOP.md",
+    "Static/LinkedList.png",
+    "Static/Array.png",
+    "Static/ArrayChange.png",
+    "Языки программирования/Python/Оглавление Python.md",
+    "Языки программирования/Оглавление Языки Программирования.md",
+    "Readme.md",
+    "ссылка сюда.md",
+    "Computer Science/ООП OOP/абстракция.md",
+    "Computer Science/Базы данных и SQL/оглавление SQL.md",
+    "Computer Science/Базы данных и SQL/оглавление Базы Данных.md",
+    "Computer Science/Базы данных и SQL/SQL/примеры задач по SQL.md",
+    "Computer Science/Базы данных и SQL/Базы данных all/ACID.md",
+    "Computer Science/Базы данных и SQL/Базы данных all/уровни изоляции транзакций.md",
+    "Computer Science/Базы данных и SQL/Базы данных all/нормализация, денормализация, нормальные формы.md",
+    "Computer Science/ООП OOP/SOLID.md",
+    "Computer Science/Общий CS/модель OSI.md",
     "files/Pasted image 20230411121049.png",
     "files/Pasted image 20221027130251.png",
     "files/Pasted image 20221027130157.png",
     "files/Pasted image 20221027130140.png",
     "files/Pasted image 20221027130023.png",
     "files/Pasted image 20221009200203.png",
-    "files/Pasted image 20221009200038.png",
-    "files/ACID-Properties.jpg",
     "files",
-    "Computer Science/Общий CS/модель OSI.md",
     "Computer Science/Общий CS",
-    "Computer Science/ООП OOP/ООП OOP.md",
-    "Computer Science/ООП OOP/абстракция.md",
-    "Computer Science/ООП OOP/SOLID.md",
     "Computer Science/ООП OOP",
-    "Computer Science/Базы данных и SQL/Базы данных all/уровни изоляции транзакций.md",
-    "Computer Science/Базы данных и SQL/Базы данных all/нормализация, денормализация, нормальные формы.md",
-    "Computer Science/Базы данных и SQL/Базы данных all/ACID.md",
-    "Computer Science/Базы данных и SQL/SQL/примеры задач по SQL.md",
-    "Computer Science/Базы данных и SQL/оглавление SQL.md",
-    "Computer Science/Базы данных и SQL/оглавление Базы Данных.md",
     "Computer Science/Базы данных и SQL/Базы данных all",
     "Computer Science/Базы данных и SQL/SQL",
     "Computer Science/Базы данных и SQL",
-    "Computer Science/Алгоритмы/Частые вопросы по алгоритмам и структурам данных с собеседований.md",
-    "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
     "Языки программирования/C/Оглавление C.md",
-    "Языки программирования/C/all c/Data structures/Массив.md",
-    "Computer Science/Структуры данных/Массив/Массив.md",
-    "Static/ArrayChange.png",
     "Языки программирования/C/all c/Без названия.md",
     "Языки программирования/C/all c/Data structures",
     "Языки программирования/C/all c",
     "Языки программирования/JS/Оглавление JavaScript.md",
     "Языки программирования/C",
-    "Static/LinkedList.png",
-    "Static/IntArray.png",
-    "ссылка сюда.md",
-    "Static",
     "Computer Science/Структуры данных/Без названия.md",
-    "Readme.md",
-    "Языки программирования/Python/Оглавление Python.md",
-    "Языки программирования/Оглавление Языки Программирования.md",
     "Языки программирования/Golang/Оглавление Golang.md",
-    "Языки программирования/Java/Оглавление Java.md",
-    "Языки программирования/Python/all python/algorithms/Бинарный поиск Binary search Python.md"
+    "Языки программирования/Java/Оглавление Java.md"
   ]
 }
