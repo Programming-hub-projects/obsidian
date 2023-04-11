@@ -205,6 +205,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Computer Science/ООП OOP/ООП OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09f07f9b3b80eee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Computer Science/ООП OOP/абстракция.md",
                 "mode": "source",
                 "source": false
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -348,9 +360,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b4b344f4218aa05f",
+  "active": "11f6e1bceebe4902",
   "lastOpenFiles": [
+    "Computer Science/ООП OOP/SOLID.md",
     "Computer Science/ООП OOP/ООП OOP.md",
+    "Computer Science/ООП OOP/SOLID",
     "Computer Science/ООП OOP/абстракция.md",
     "Computer Science/ООП OOP",
     "Computer Science/Алгоритмы/Частые вопросы по алгоритмам и структурам данных с собеседований.md",
@@ -383,7 +397,6 @@
     "Языки программирования/Golang/оглавление Golang.md",
     "Языки программирования/Java/оглавление Java.md",
     "Языки программирования/JS/оглавление JavaScript.md",
-    "Computer Science/Алгоритмы/Бинарный поиск/python.py",
     "Папка/ссылка сюда.md",
     "Оглавление!.md"
   ]
