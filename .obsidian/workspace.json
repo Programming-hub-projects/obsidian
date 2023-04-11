@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/ООП OOP/абстракция.md",
+                "file": "Computer Science/ООП OOP/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/ООП OOP/абстракция.md",
+                "file": "Computer Science/ООП OOP/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/ООП OOP/абстракция.md",
+                "file": "Computer Science/ООП OOP/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/ООП OOP/абстракция.md"
+                "file": "Computer Science/ООП OOP/SOLID.md"
               }
             }
           },
@@ -360,12 +360,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "11f6e1bceebe4902",
+  "active": "09f07f9b3b80eee4",
   "lastOpenFiles": [
+    "files/Pasted image 20221009200203.png",
+    "files/Pasted image 20221009200038.png",
+    "Computer Science/ООП OOP/абстракция.md",
     "Computer Science/ООП OOP/SOLID.md",
     "Computer Science/ООП OOP/ООП OOP.md",
     "Computer Science/ООП OOP/SOLID",
-    "Computer Science/ООП OOP/абстракция.md",
     "Computer Science/ООП OOP",
     "Computer Science/Алгоритмы/Частые вопросы по алгоритмам и структурам данных с собеседований.md",
     "Computer Science/Базы данных и SQL/Базы данных all/нормализация, денормализация, нормальные формы.md",
