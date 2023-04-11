@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8a043f5da3a7bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Общий CS/модель OSI.md",
+                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Общий CS/модель OSI.md",
+                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Общий CS/модель OSI.md"
+                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md"
               }
             }
           },
@@ -240,11 +252,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "11f6e1bceebe4902",
+  "active": "e8a043f5da3a7bb7",
   "lastOpenFiles": [
-    "Computer Science/Без названия",
-    "Readme.md",
     "Computer Science/Общий CS/модель OSI.md",
+    "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
+    "Computer Science/Базы данных/SQL",
+    "Computer Science/Базы данных",
+    "Readme.md",
     "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
     "Computer Science/Общий CS",
     "Языки программирования/Оглавление Языки Программирования.md",
@@ -261,9 +275,7 @@
     "Computer Science/Структуры данных",
     "Computer Science/Алгоритмы",
     "Computer Science/Без названия.md",
-    "Computer Science",
     "Папка/ссылка сюда.md",
-    "Оглавление!.md",
-    "Папка"
+    "Оглавление!.md"
   ]
 }
