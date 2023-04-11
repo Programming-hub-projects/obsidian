@@ -1,3 +1,6 @@
 {
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "files",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
