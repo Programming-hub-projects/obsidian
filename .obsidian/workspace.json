@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Базы данных/нормализация, денормализация, нормальные формы.md",
+                "file": "Computer Science/Базы данных и SQL/Базы данных all/нормализация, денормализация, нормальные формы.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Базы данных/SQL/примеры задач по SQL.md",
+                "file": "Computer Science/Базы данных и SQL/SQL/примеры задач по SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Базы данных/оглавление SQL.md",
+                "file": "Computer Science/Базы данных и SQL/оглавление SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Базы данных/ACID.md",
+                "file": "Computer Science/Базы данных и SQL/Базы данных all/ACID.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Базы данных/уровни изоляции транзакций.md",
+                "file": "Computer Science/Базы данных и SQL/оглавление SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9affd843deddceae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Базы данных и SQL/оглавление SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Базы данных/уровни изоляции транзакций.md",
+                "file": "Computer Science/Базы данных и SQL/оглавление SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Базы данных/уровни изоляции транзакций.md",
+                "file": "Computer Science/Базы данных и SQL/оглавление SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Базы данных/уровни изоляции транзакций.md"
+                "file": "Computer Science/Базы данных и SQL/оглавление SQL.md"
               }
             }
           },
@@ -300,24 +312,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d817120a94cb5a78",
+  "active": "9affd843deddceae",
   "lastOpenFiles": [
+    "Computer Science/Базы данных и SQL/оглавление Базы Данных.md",
+    "Computer Science/Базы данных и SQL/оглавление SQL.md",
+    "Computer Science/Базы данных и SQL/Базы данных all",
+    "Computer Science/Базы данных и SQL/Базы данных all/ACID.md",
+    "Computer Science/Базы данных и SQL/Базы данных all/уровни изоляции транзакций.md",
     "files/Pasted image 20221027130157.png",
     "files/Pasted image 20221027130140.png",
     "files/Pasted image 20221027130251.png",
-    "Computer Science/Базы данных/ACID.md",
-    "Computer Science/Базы данных/уровни изоляции транзакций.md",
     "files/Pasted image 20221027130023.png",
     "files/ACID-Properties.jpg",
-    "Computer Science/Базы данных/оглавление SQL.md",
-    "Computer Science/Базы данных/SQL/примеры задач по SQL.md",
+    "Computer Science/Базы данных и SQL/SQL/примеры задач по SQL.md",
     "files/Pasted image 20230411121049.png",
     "files",
-    "Computer Science/Базы данных/нормализация, денормализация, нормальные формы.md",
+    "Computer Science/Базы данных и SQL/Базы данных all/нормализация, денормализация, нормальные формы.md",
     "Computer Science/Базы данных/SQL/язык SQL",
     "Computer Science/Общий CS/модель OSI.md",
-    "Computer Science/Базы данных/SQL",
-    "Computer Science/Базы данных",
+    "Computer Science/Базы данных и SQL/SQL",
+    "Computer Science/Базы данных и SQL",
     "Readme.md",
     "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
     "Computer Science/Общий CS",
@@ -331,7 +345,6 @@
     "Языки программирования/JS/оглавление JavaScript.md",
     "Computer Science/Алгоритмы/Бинарный поиск/python.py",
     "Computer Science/Алгоритмы/Бинарный поиск/Text Document.txt",
-    "Computer Science/Алгоритмы/Бинарный поиск",
     "Computer Science/Без названия.md",
     "Папка/ссылка сюда.md",
     "Оглавление!.md"
