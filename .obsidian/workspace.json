@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b07eae53ab413261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Общий CS/модель OSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+                "file": "Computer Science/Общий CS/модель OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+                "file": "Computer Science/Общий CS/модель OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md"
+                "file": "Computer Science/Общий CS/модель OSI.md"
               }
             }
           },
@@ -228,13 +240,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ca56f867c2cd1c78",
+  "active": "b07eae53ab413261",
   "lastOpenFiles": [
+    "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
+    "Computer Science/Общий CS/модель OSI.md",
+    "Computer Science/Общий CS",
     "Readme.md",
     "Языки программирования/Оглавление Языки Программирования.md",
     "Языки программирования/Python/оглавление Python.md",
     "Языки программирования/Python/all python/alorithms/Бинарный поиск Binary search Python.md",
-    "Computer Science/Алгоритмы/Бинарный поиск/Бинарный поиск.md",
     "Языки программирования/Python/all python/alorithms",
     "Языки программирования/Python/all python",
     "Языки программирования/Golang/оглавление Golang.md",
