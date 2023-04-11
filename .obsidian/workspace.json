@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
+                "file": "Computer Science/Базы данных/нормализация, денормализация, нормальные формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc36976c444622e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Базы данных/SQL/примеры задач по SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
+                "file": "Computer Science/Базы данных/SQL/примеры задач по SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
+                "file": "Computer Science/Базы данных/SQL/примеры задач по SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md"
+                "file": "Computer Science/Базы данных/SQL/примеры задач по SQL.md"
               }
             }
           },
@@ -252,10 +264,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e8a043f5da3a7bb7",
+  "active": "cc36976c444622e5",
   "lastOpenFiles": [
+    "Computer Science/Базы данных/нормализация, денормализация, нормальные формы.md",
+    "Computer Science/Базы данных/SQL/примеры задач по SQL.md",
+    "Computer Science/Базы данных/SQL/язык SQL",
     "Computer Science/Общий CS/модель OSI.md",
-    "Computer Science/Базы данных/SQL/нормализация, денормализация, нормальные формы.md",
     "Computer Science/Базы данных/SQL",
     "Computer Science/Базы данных",
     "Readme.md",
@@ -273,7 +287,6 @@
     "Computer Science/Алгоритмы/Бинарный поиск/Text Document.txt",
     "Computer Science/Алгоритмы/Бинарный поиск",
     "Computer Science/Структуры данных",
-    "Computer Science/Алгоритмы",
     "Computer Science/Без названия.md",
     "Папка/ссылка сюда.md",
     "Оглавление!.md"
